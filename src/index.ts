@@ -3,5 +3,5 @@ export function whatIsDeez() {
 }
 
 export function whatIsCandace() {
-    return 'NUTS';
+    return 'NUTsS';
 }
